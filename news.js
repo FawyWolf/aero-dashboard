@@ -1,0 +1,1 @@
+// news.js content goes here
