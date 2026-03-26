@@ -1,0 +1,17 @@
+{
+  "name": "aero-dashboard",
+  "version": "1.0.0",
+  "description": "🦊 Beautiful weather & traffic dashboard",
+  "author": "FawyWolf",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=frontend & npm run dev --workspace=backend",
+    "build": "npm run build --workspace=frontend",
+    "start": "npm start --workspace=backend"
+  }
+}

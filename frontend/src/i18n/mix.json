@@ -1,0 +1,18 @@
+{
+  "app_name": "Aero Dashboard 🦊",
+  "weather": "🌤️ Погода / Weather",
+  "traffic": "🚗 Пробки / Traffic",
+  "news": "📰 Новости / News",
+  "settings": "⚙️ Настройки / Settings",
+  "sleep_mode": "🌙 РЕЖИМ СНА / SLEEP MODE",
+  "wake_up_at": "Проснёмся / Wake up at",
+  "language": "🌐 Язык / Language",
+  "region": "📍 Город / City",
+  "theme": "🎨 Тема / Theme",
+  "brightness": "🔆 Яркость / Brightness",
+  "sound_volume": "🔊 Громкость / Volume",
+  "sleep_time": "🌙 Ночной режим / Sleep",
+  "wake_time": "☀️ Пробуждение / Wake",
+  "update_interval": "🔄 Обновление / Update",
+  "about": "ℹ️ Информация / About"
+}

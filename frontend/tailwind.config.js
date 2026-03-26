@@ -1,0 +1,16 @@
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{vue,js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        primary: '#667eea',
+        secondary: '#764ba2',
+        accent: '#ff6b35',
+      },
+    },
+  },
+  plugins: [],
+}
